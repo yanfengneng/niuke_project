@@ -4,3 +4,4 @@
 *.out
 !.gitgnore
 .vscode
+*/build
